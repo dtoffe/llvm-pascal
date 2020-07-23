@@ -1,7 +1,5 @@
 unit Token;
 
-{$MODE Delphi}
-
 interface
 
 type

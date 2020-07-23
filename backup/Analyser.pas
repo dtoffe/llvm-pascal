@@ -1,7 +1,5 @@
 unit Analyser;
 
-{$MODE Delphi}
-
 interface
 
 uses

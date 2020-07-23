@@ -1,7 +1,4 @@
 unit Scanner;
-
-{$MODE Delphi}
-
 {
 Author: Wanderlan Santos dos Anjos, wanderlan.anjos@gmail.com
 Date: jan-2010

@@ -1,0 +1,10 @@
+LLVM_Pascal.lpi Note: Added defines -dBorland -dVer150 -dDelphi7 -dCompiler6_Up -dPUREPASCAL in custom options
+ Progress: Found all unit files
+ : 
+ : *** Converting unit files belonging to project/package ***
+ : 
+ : *** Converting unit files found during conversion ***
+ : 
+ : *** Fixing used units and Repairing form files ***
+ Progress: Conversion took: 00:00:01
+ : Conversion Ready.

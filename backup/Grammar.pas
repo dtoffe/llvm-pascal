@@ -1,7 +1,5 @@
 unit Grammar;
 
-{$MODE Delphi}
-
 interface
 
 const

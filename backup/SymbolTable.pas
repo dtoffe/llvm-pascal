@@ -1,7 +1,5 @@
 unit SymbolTable;
 
-{$MODE Delphi}
-
 interface
 
 uses
